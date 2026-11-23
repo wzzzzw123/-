@@ -7,7 +7,7 @@
 - 扩展检索线索：1,047 条，未确认主题相关性
 - 双语摘要、数据库字段或节选：405 条
 
-网站为静态 HTML，支持刊物、主题、年份、标题及已展示摘要筛选，支持 APA 复制与下载。
+网站为静态 HTML，支持刊物、主题、中英辅助关键词、年份、标题及已展示摘要筛选，支持 APA 复制与下载。
 
 ## 数据范围
 
@@ -17,6 +17,8 @@
 
 GitHub 仓库 Settings → Pages → Build and deployment：选择 Deploy from a branch，分支 main，目录 /(root)，点击 Save。
 
-启用后，预期地址为 `https://wzzzzw123.github.io/-/`；该地址须待 GitHub Pages 实际部署成功后方可访问。
+公开网站：https://wzzzzw123.github.io/-/
+
+关键词为题名与已展示英文摘要的辅助匹配标签，非作者原始关键词；支持点击卡片标签筛选、关键词专门搜索及CSV导出。
 
 不需要构建步骤、数据库、API 密钥或访问者登录。保留 `.nojekyll`。
