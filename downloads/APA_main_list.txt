@@ -1,0 +1,805 @@
+Aabo, T., Pantzalis, C., Sørensen, H., & Toustrup, M. T. (2016). Corporate risk and external sourcing: A study of Scandinavian multinational firms. International Business Review, 25(6), 1297–1308. https://doi.org/10.1016/j.ibusrev.2016.04.002
+
+Adler, N., & Hashai, N. (2007). Knowledge flows and the modelling of the multinational enterprise. Journal of International Business Studies, 38(4), 639–657. https://doi.org/10.1057/palgrave.jibs.8400284
+
+Aguilera, R. V. (2011). Interorganizational governance and global strategy. Global Strategy Journal, 1(1-2), 90–95. https://doi.org/10.1002/gsj.13
+
+Ahmed, S. (2025). How violence shapes place: The rise of neo‐authoritarianism in the global value chain and the emergence of an ‘infernal place’ in the Bangladesh garment industry. Journal of Management Studies. Advance online publication. https://doi.org/10.1111/joms.13235
+
+Ahokangas, P., Haapanen, L., Golgeci, I., Arslan, A., Khan, Z., & Kontkanen, M. (2022). Knowledge sharing dynamics in international subcontracting arrangements: The case of Finnish high-tech SMEs. Journal of International Management, 28(1), Article 100888. https://doi.org/10.1016/j.intman.2021.100888
+
+Albertoni, F., Elia, S., Massini, S., & Piscitello, L. (2017). The reshoring of business services: Reaction to failure or persistent strategy? Journal of World Business, 52(3), 417–430. https://doi.org/10.1016/j.jwb.2017.01.005
+
+Alcacer, J., & Oxley, J. (2014). Learning by supplying. Strategic Management Journal, 35(2), 204–223. https://doi.org/10.1002/smj.2134
+
+Alcácer, J. (2006). Location choices across the value chain: How activity and capability influence collocation. Management Science, 52(10), 1457–1471. https://doi.org/10.1287/mnsc.1060.0658
+
+Allen, M. M. C., Demirbag, M., Allen, M. L., Bhankaraully, S., & Wood, G. (2024). Multinational enterprises' R&D commitments in Chinese provinces: A configurational approach. Journal of International Management, 30(4), Article 101158. https://doi.org/10.1016/j.intman.2024.101158
+
+Allon, G., & Van Mieghem, J. A. (2010). Global dual sourcing: Tailored base-surge allocation to near- and offshore production. Management Science, 56(1), 110–124. https://doi.org/10.1287/mnsc.1090.1099
+
+Alonso, M., Jacob, M., Ormazabal, G., & Raney, R. (2026). Crossborder carbon taxes and shareholder wealth. Management Science. Advance online publication. https://doi.org/10.1287/mnsc.2024.07171
+
+Ambos, B., Brandl, K., Perri, A., Scalera, V. G., & Van Assche, A. (2021). The nature of innovation in global value chains. Journal of World Business, 56(4), Article 101221. https://doi.org/10.1016/j.jwb.2021.101221
+
+Amdam, R. P., da Silva Lopes, T., Eikrem, T. H., & Mata, M. E. (2025). Trade wars, international supply chains, and business associations: Historical evidence from Norway and Portugal. Journal of Management Studies. Advance online publication. https://doi.org/10.1111/joms.70026
+
+Amendolagine, V., Capolupo, R., & Ferri, G. (2014). Innovativeness, offshoring and black economy decisions. evidence from italian manufacturing firms. International Business Review, 23(6), 1153–1166. https://doi.org/10.1016/j.ibusrev.2014.03.011
+
+Amengual, M., & Distelhorst, G. (2025). Cooperation and punishment in managing social performance: Labor standards in the Gap Inc. supply chain. Strategic Management Journal, 46(11), 2663–2689. https://doi.org/10.1002/smj.3733
+
+Ancarani, A., Ardito, L., Di Mauro, C., & Petruzzelli, A. M. (2024). Back-shoring vs. offshoring: The importance of innovating with host-country inventors. International Business Review, 33(6), Article 102337. https://doi.org/10.1016/j.ibusrev.2024.102337
+
+Ancarani, A., Di Mauro, C., & Mascali, F. (2019). Backshoring strategy and the adoption of industry 4.0: Evidence from Europe. Journal of World Business, 54(4), 360–371. https://doi.org/10.1016/j.jwb.2019.04.003
+
+Aral, S., Bakos, Y., & Brynjolfsson, E. (2018). Information technology, repeated contracts, and the number of suppliers. Management Science, 64(2), 592–612. https://doi.org/10.1287/mnsc.2016.2631
+
+Asmussen, C. G., Fosfuri, A., Larsen, M. M., & Santangelo, G. D. (2023). Corporate social responsibility in the global value chain: A bargaining perspective. Journal of International Business Studies, 54(7), 1175–1192. https://doi.org/10.1057/s41267-023-00635-w
+
+Asmussen, C. G., Larsen, M. M., & Pedersen, T. (2016). Organizational adaptation in offshoring: The relative performance of home- and host-based learning strategies. Organization Science, 27(4), 911–928. https://doi.org/10.1287/orsc.2016.1060
+
+Asmussen, C., Chi, T., & Narula, R. (2022). Quasi-internalization, recombination advantages, and global value chains: Clarifying the role of ownership and control. Journal of International Business Studies, 53(8), 1747–1765. https://doi.org/10.1057/s41267-022-00551-5
+
+Azmeh, S., & Nadvi, K. (2014). Asian firms and the restructuring of global value chains. International Business Review, 23(4), 708–717. https://doi.org/10.1016/j.ibusrev.2014.03.007
+
+Bae, J., Lee, J., Chung, S. W., & Kwon, H. (2025). Competent suppliers as a missing link: A supplier-centered view on cascading private labor governance in global value chains. Journal of World Business, 60(1), Article 101595. https://doi.org/10.1016/j.jwb.2024.101595
+
+Bagchi, K., Kirs, P., Udo, G., & Cerveny, R. (2015). Characteristics and determinants of insourced and offshored projects: A comparative analysis. Journal of World Business, 50(1), 108–121. https://doi.org/10.1016/j.jwb.2014.02.003
+
+Bai, X., Zhou, K. Z., Zhang, B., & Xie, E. (2025). The dual effects of geopolitical risk on MNCs’ first-tier supply base: A political economy perspective. Journal of International Business Studies, 56(9), 1125–1149. https://doi.org/10.1057/s41267-025-00805-y
+
+Baier, E., Rammer, C., & Schubert, T. (2015). The impact of captive innovation offshoring on the effectiveness of organizational adaptation. Journal of International Management, 21(2), 150–165. https://doi.org/10.1016/j.intman.2015.03.002
+
+Bakshi, N., & Gans, N. (2010). Securing the containerized supply chain: Analysis of government incentives for private investment. Management Science, 56(2), 219–233. https://doi.org/10.1287/mnsc.1090.1105
+
+Bakshi, N., Flynn, S. E., & Gans, N. (2011). Estimating the operational impact of container inspections at international ports. Management Science, 57(1), 1–20. https://doi.org/10.1287/mnsc.1100.1252
+
+Barbaglia, M., Bianchini, R., Butticè, V., Elia, S., & Mariani, M. M. (2023). The role of environmental sustainability in the relocation choices of MNEs: Back to the home country or welcome in a new host country? Journal of International Management, 29(5), Article 101059. https://doi.org/10.1016/j.intman.2023.101059
+
+Barbieri, P., Boffelli, A., Elia, S., Fratocchi, L., & Kalchschmidt, M. (2022). How does industry 4.0 affect international exposure? The interplay between firm innovation and home-country policies in post-offshoring relocation decisions. International Business Review, 31(4), Article 101992. https://doi.org/10.1016/j.ibusrev.2022.101992
+
+Barbieri, P., Di Stefano, C., Elia, S., Fratocchi, L., & Pensa, C. (2026). Supply backshoring as a strategy to reduce transaction costs in an era of global value chain reconfiguration. Journal of International Management, 32(1), Article 101313. https://doi.org/10.1016/j.intman.2025.101313
+
+Belderbos, R., & Zou, J. (2007). On the growth of foreign affiliates: Multinational plant networks, joint ventures, and flexibility. Journal of International Business Studies, 38(7), 1095–1112. https://doi.org/10.1057/palgrave.jibs.8400319
+
+Benischke, M. H., Rietveld, J., & Slangen, A. (2023). Within-firm variation in the liability of foreignness: A demand-based perspective. Journal of Management, 49(5), 1738–1765. https://doi.org/10.1177/01492063221094261
+
+Benito, G. R. G., Petersen, B., & Welch, L. S. (2019). The global value chain and internalization theory. Journal of International Business Studies, 50(8), 1414–1423. https://doi.org/10.1057/s41267-019-00218-8
+
+Berry, H., & Kaul, A. (2015). Global sourcing and foreign knowledge seeking. Management Science, 61(5), 1052–1071. https://doi.org/10.1287/mnsc.2014.2036
+
+Berry, H., Chauvin, J., Cheng, Y. L., & Lee, N. (2026). The global sourcing of green products. Journal of International Business Studies, 57(2), 164–172. https://doi.org/10.1057/s41267-025-00801-2
+
+Berry, H., Kaul, A., & Lee, N. (2021). Follow the smoke: The pollution haven effect on global sourcing. Strategic Management Journal, 42(13), 2420–2450. https://doi.org/10.1002/smj.3288
+
+Bertrand, O. (2011). What goes around, comes around: Effects of offshore outsourcing on the export performance of firms. Journal of International Business Studies, 42(2), 334–344. https://doi.org/10.1057/jibs.2010.26
+
+Bertrand, O., & Mol, M. J. (2013). The antecedents and innovation effects of domestic and offshore R&D outsourcing: The contingent impact of cognitive distance and absorptive capacity. Strategic Management Journal, 34(6), 751–760. https://doi.org/10.1002/smj.2034
+
+Beugelsdijk, S., Pedersen, T., & Petersen, B. (2009). Is there a trend towards global value chain specialization? — An examination of cross border sales of US foreign affiliates. Journal of International Management, 15(2), 126–141. https://doi.org/10.1016/j.intman.2008.08.002
+
+Bird, Y., Short, J. L., & Toffel, M. W. (2019). Coupling labor codes of conduct and supplier labor practices: The role of internal structural conditions. Organization Science, 30(4), 847–867. https://doi.org/10.1287/orsc.2018.1261
+
+Blalock, G., & Simon, D. H. (2009). Do all firms benefit equally from downstream FDI? The moderating effect of local suppliers’ capabilities on productivity gains. Journal of International Business Studies, 40(7), 1095–1112. https://doi.org/10.1057/jibs.2009.21
+
+Boehe, D. M. (2007). Product development in MNC subsidiaries: Local linkages and global interdependencies. Journal of International Management, 13(4), 488–512. https://doi.org/10.1016/j.intman.2007.08.002
+
+Boehm, J., & Sonntag, J. (2023). Vertical integration and foreclosure: Evidence from production network data. Management Science, 69(1), 141–161. https://doi.org/10.1287/mnsc.2022.4363
+
+Bondareva, M., & Pinker, E. (2019). Dynamic relational contracts for quality enforcement in supply chains. Management Science, 65(3), 1305–1321. https://doi.org/10.1287/mnsc.2017.2990
+
+Botella Andreu, A., & Lavoratori, K. (2025). Two heads are better than one: Determinants of European MNC's headquarters dispersion in their home region. Journal of International Management, 31(5), Article 101277. https://doi.org/10.1016/j.intman.2025.101277
+
+Bouguerra, A., Cakir, M. S., Rajwani, T., Mellahi, K., & Tatoglu, E. (2025). MNEs engagement with environmental sustainability in an emerging economy: Do dynamic capabilities and entrepreneurial orientation matter? International Business Review, 34(2), Article 102298. https://doi.org/10.1016/j.ibusrev.2024.102298
+
+Boussebaa, M., Sinha, S., & Gabriel, Y. (2014). Englishization in offshore call centers: A postcolonial perspective. Journal of International Business Studies, 45(9), 1152–1169. https://doi.org/10.1057/jibs.2014.25
+
+Boute, R. N., & Van Mieghem, J. A. (2015). Global dual sourcing and order smoothing: The impact of capacity and lead times. Management Science, 61(9), 2080–2099. https://doi.org/10.1287/mnsc.2014.1992
+
+Boute, R. N., Disney, S. M., Gijsbrechts, J., & Van Mieghem, J. A. (2022). Dual sourcing and smoothing under nonstationary demand time series: Reshoring with speedfactories. Management Science, 68(2), 1039–1057. https://doi.org/10.1287/mnsc.2020.3951
+
+Brandl, K. (2019). The impact of offshoring on knowledge‐intensive services: A study of activities in service production processes. Global Strategy Journal, 9(3), 453–487. https://doi.org/10.1002/gsj.1352
+
+Brandl, K., Jensen, P. D. Ø., & Lind, M. J. (2018). Advanced service offshore outsourcing: Exploring the determinants of capability development in emerging market firms. Global Strategy Journal, 8(2), 324–350. https://doi.org/10.1002/gsj.1192
+
+Branstetter, L., Chen, J.-R., Glennon, B., & Zolas, N. (2026). Does offshoring production reduce innovation? Firm-level evidence from Taiwan. Management Science, 72(11), 9763–9784. https://doi.org/10.1287/mnsc.2024.04944
+
+Bretscher, L. (2023). From local to global: Offshoring and asset prices. Management Science, 69(3), 1420–1448. https://doi.org/10.1287/mnsc.2022.4393
+
+Bruton, G. D., Mejia-Morelos, J. H., & Ahlstrom, D. (2025). Multinational corporations and inclusive supply chains: How conflicting social and market logics can coexist. Journal of World Business, 60(6), Article 101663. https://doi.org/10.1016/j.jwb.2025.101663
+
+Bucheli, M., Ciravegna, L., & Sáenz, L. F. (2023). The octopus that shrank: A historical analysis of how multinationals address policy and contractual uncertainty in a global value chain. Strategic Management Journal, 44(13), 3289–3323. https://doi.org/10.1002/smj.3537
+
+Buciuni, G., & Pisano, G. (2021). Variety of innovation in global value chains. Journal of World Business, 56(2), Article 101167. https://doi.org/10.1016/j.jwb.2020.101167
+
+Buckley, P. J. (2009). The impact of the global factory on economic development. Journal of World Business, 44(2), 131–143. https://doi.org/10.1016/j.jwb.2008.05.003
+
+Buckley, P. J. (2009). Internalisation thinking: From the multinational enterprise to the global factory. International Business Review, 18(3), 224–235. https://doi.org/10.1016/j.ibusrev.2009.01.006
+
+Buckley, P. J., & Hashai, N. (2026). The impact of inward foreign direct investment bans on the configuration of global value chains. International Business Review, 35(2), Article 102562. https://doi.org/10.1016/j.ibusrev.2026.102562
+
+Buckley, P. J., & Liesch, P. W. (2023). Externalities in global value chains: Firm solutions for regulation challenges. Global Strategy Journal, 13(2), 420–439. https://doi.org/10.1002/gsj.1471
+
+Buckley, P. J., Munjal, S., & Requejo, I. (2022). How does offshore outsourcing of knowledge-intensive activities affect the exports and financial performance of emerging market firms? Journal of International Business Studies, 53(9), 1971–1996. https://doi.org/10.1057/s41267-022-00511-z
+
+Buckley, P. J., Murphree, M., & Anderson, J. (2024). Horizontal subcontracting and the global factory. Journal of International Business Studies, 55(7), 934–944. https://doi.org/10.1057/s41267-024-00711-9
+
+Buckley, P. J., Strange, R., Timmer, M. P., & de Vries, G. J. (2022). Rent appropriation in global value chains: The past, present, and future of intangible assets. Global Strategy Journal, 12(4), 679–696. https://doi.org/10.1002/gsj.1438
+
+Bunyaratavej, K., Hahn, E. D., & Doh, J. P. (2007). International offshoring of services: A parity study. Journal of International Management, 13(1), 7–21. https://doi.org/10.1016/j.intman.2006.05.002
+
+Bunyaratavej, K., Hahn, E. D., & Doh, J. P. (2008). Multinational investment and host country development: Location efficiencies for services offshoring. Journal of World Business, 43(2), 227–242. https://doi.org/10.1016/j.jwb.2007.11.001
+
+Burger, A., Jindra, B., Marek, P., & Rojec, M. (2018). Functional upgrading and value capture of multinational subsidiaries. Journal of International Management, 24(2), 108–122. https://doi.org/10.1016/j.intman.2017.09.004
+
+Butler, B., & Soontiens, W. (2015). Offshoring of higher education services in strategic nets: A dynamic capabilities perspective. Journal of World Business, 50(3), 477–490. https://doi.org/10.1016/j.jwb.2014.08.001
+
+Caro, F., Lane, L., & Sáez de Tejada Cuenca, A. (2021). Can brands claim ignorance? Unauthorized subcontracting in apparel supply chains. Management Science, 67(4), 2010–2028. https://doi.org/10.1287/mnsc.2020.3679
+
+Casson, M., & Wadeson, N. (2024). Cross‐investments by multinationals: A new perspective. Global Strategy Journal, 14(2), 279–311. https://doi.org/10.1002/gsj.1499
+
+Castellani, D., & Lavoratori, K. (2020). The lab and the plant: Offshore R&D and co-location with production activities. Journal of International Business Studies, 51(1), 121–137. https://doi.org/10.1057/s41267-019-00255-3
+
+Ceci, F., & Prencipe, A. (2013). Does distance hinder coordination? Identifying and bridging boundaries of offshored work. Journal of International Management, 19(4), 324–332. https://doi.org/10.1016/j.intman.2013.04.001
+
+Celo, S., Nebus, J., & Wang, I. K. (2018). The role of internal and external complexity in global factory performance: An NKC application. Journal of International Management, 24(1), 65–83. https://doi.org/10.1016/j.intman.2017.12.005
+
+Chae, S., Filatotchev, I., Kim, S., & Son, B.-G. (2025). Small worlds within global supply chains: Implications for multinational enterprises’ environmental, social, and governance controversies. Journal of International Business Studies, 56(6), 807–818. https://doi.org/10.1057/s41267-025-00796-w
+
+Chang, K.-H., & Gotcher, D. F. (2007). Safeguarding investments and creation of transaction value in asymmetric international subcontracting relationships: The role of relationship learning and relational capital. Journal of World Business, 42(4), 477–488. https://doi.org/10.1016/j.jwb.2007.06.008
+
+Chang, K.-H., & Gotcher, D. F. (2020). How and when does co-production facilitate eco-innovation in international buyer-supplier relationships? The role of environmental innovation ambidexterity and institutional pressures. International Business Review, 29(5), Article 101731. https://doi.org/10.1016/j.ibusrev.2020.101731
+
+Chang, K.-H., Chen, Y.-R., & Huang, H.-F. (2015). Information technology and partnership dynamic capabilities in international subcontracting relationships. International Business Review, 24(2), 276–286. https://doi.org/10.1016/j.ibusrev.2014.08.003
+
+Chen, J., McQueen, R. J., & Sun, P. Y. T. (2013). Knowledge transfer and knowledge building at offshored technical support centers. Journal of International Management, 19(4), 362–376. https://doi.org/10.1016/j.intman.2013.03.009
+
+Chen, L., & Lee, H. L. (2017). Sourcing under supplier responsibility risk: The effects of certification, audit, and contingency payment. Management Science, 63(9), 2795–2812. https://doi.org/10.1287/mnsc.2016.2466
+
+Chen, S.-F. S. (2009). A transaction cost rationale for private branding and its implications for the choice of domestic vs offshore outsourcing. Journal of International Business Studies, 40(1), 156–175. https://doi.org/10.1057/palgrave.jibs.8400419
+
+Chen, X., Jiang, L., & Wang, Y. (2026). Cross-border cooperation among securities regulators and supply chain collaboration: Evidence from U.S.-listed foreign firms. Journal of International Business Studies. Advance online publication. https://doi.org/10.1057/s41267-026-00902-6
+
+Cheng, M. P. S., Tang, C., Lo, C. K. Y., Yeung, A. C. L., & Lam, H. K. S. (2025). Return to the united states: Impact of reshoring announcements and reshoring risks on market valuation. Management Science, 71(4), 3253–3282. https://doi.org/10.1287/mnsc.2022.00599
+
+Cheung, M. S., Myers, M. B., & Mentzer, J. T. (2011). The value of relational learning in global buyer‐supplier exchanges: A dyadic perspective and test of the pie‐sharing premise. Strategic Management Journal, 32(10), 1061–1082. https://doi.org/10.1002/smj.926
+
+Choi, J. J., Ju, M., Kotabe, M., Trigeorgis, L., & Zhang, X. T. (2018). Flexibility as firm value driver: Evidence from offshore outsourcing. Global Strategy Journal, 8(2), 351–376. https://doi.org/10.1002/gsj.1181
+
+Choksy, U. S., Kurt, Y., Gölgeci, I., Khan, Z., Shamim, S., & Jawad, M. (2025). Resilience of GVC suppliers in politically unstable regions: The roles of governance and trust. International Business Review, 34(6), Article 102465. https://doi.org/10.1016/j.ibusrev.2025.102465
+
+Clampit, J., Kedia, B., Fabian, F., & Gaffney, N. (2015). Offshoring satisfaction: The role of partnership credibility and cultural complementarity. Journal of World Business, 50(1), 79–93. https://doi.org/10.1016/j.jwb.2014.02.001
+
+Clerckx, R. J., Grimpe, C., Leten, B., & Vancauteren, M. (2026). Offshoring’s hidden toll: Mental distress among onshore employees. Journal of International Business Studies, 57(7), 1035–1053. https://doi.org/10.1057/s41267-026-00862-x
+
+Colovic, A., Misganaw, B. A., & Assefa, D. Z. (2022). Liability of informality and firm participation in global value chains. Journal of World Business, 57(1), Article 101279. https://doi.org/10.1016/j.jwb.2021.101279
+
+Connelly, B. L., Ketchen, D. J., & Hult, G. T. M. (2013). Global supply chain management: Toward a theoretically driven research agenda. Global Strategy Journal, 3(3), 227–243. https://doi.org/10.1111/j.2042-5805.2013.01041.x
+
+Contractor, F. J., Cantwell, J., Gereffi, G., & Sauvant, K. P. (2026). The shift to a more turbulent IB environment, and how MNEs respond to this shift. International Business Review, 35(2), Article 102538. https://doi.org/10.1016/j.ibusrev.2025.102538
+
+Contractor, F. J., Kumar, V., Kundu, S. K., & Pedersen, T. (2010). Reconceptualizing the firm in a world of outsourcing and offshoring: The organizational and geographical relocation of high‐value company functions. Journal of Management Studies, 47(8), 1417–1433. https://doi.org/10.1111/j.1467-6486.2010.00945.x
+
+Corredoira, R. A., & McDermott, G. A. (2014). Adaptation, bridging and firm upgrading: How non-market institutions and MNCs facilitate knowledge recombination in emerging markets. Journal of International Business Studies, 45(6), 699–722. https://doi.org/10.1057/jibs.2014.19
+
+Coucke, K., & Sleuwaegen, L. (2008). Offshoring as a survival strategy: Evidence from manufacturing firms in Belgium. Journal of International Business Studies, 39(8), 1261–1277. https://doi.org/10.1057/palgrave.jibs.8400403
+
+Crespo, C. F., Crespo, N. F., & Silva, S. C. (2025). Unveiling the power of supplier-country image on B2B customers' perceptions: Beyond the product’s beauty. International Business Review, 34(3), Article 102388. https://doi.org/10.1016/j.ibusrev.2025.102388
+
+Dachs, B., Kinkel, S., & Jäger, A. (2019). Bringing IT all back home? Backshoring of manufacturing activities and the adoption of industry 4.0 technologies. Journal of World Business, 54(6), Article 101017. https://doi.org/10.1016/j.jwb.2019.101017
+
+Dahiya, S., & Busse, C. (2026). “The minimum wage is the maximum wage”: How goal replacement perpetuates means–ends decoupling. Journal of Management. Advance online publication. https://doi.org/10.1177/01492063261487366
+
+De Beule, F., Van Assche, A., & Nevens, J. (2022). Additive manufacturing and production internationalization: An internalization perspective. Journal of International Management, 28(4), Article 100952. https://doi.org/10.1016/j.intman.2022.100952
+
+De Marchi, V., Di Maria, E., Golini, R., & Perri, A. (2020). Nurturing international business research through global value chains literature: A review and discussion of future research opportunities. International Business Review, 29(5), Article 101708. https://doi.org/10.1016/j.ibusrev.2020.101708
+
+DeBerge, T. (2024). Responsibility boundaries and the governance of global value chains: The interplay of efficiency, ethical, and institutional pressures in global strategy. Global Strategy Journal, 14(1), 196–222. https://doi.org/10.1002/gsj.1498
+
+Debellis, F., Rondi, E., Buckley, P. J., & De Massis, A. (2024). Family firms and the governance of global value chains. Journal of International Business Studies, 55(8), 962–975. https://doi.org/10.1057/s41267-024-00716-4
+
+Demirbag, M., & Glaister, K. W. (2010). Factors determining offshore location choice for R&D projects: A comparative study of developed and emerging regions. Journal of Management Studies, 47(8), 1534–1560. https://doi.org/10.1111/j.1467-6486.2010.00948.x
+
+Demirbag, M., Mellahi, K., Sahadev, S., & Elliston, J. (2012). Employee service abandonment in offshore operations: A case study of a US multinational in India. Journal of World Business, 47(2), 178–185. https://doi.org/10.1016/j.jwb.2011.04.004
+
+Deng, Z., Ma, X., & Zhu, Z. (2022). Transactional dependence and technological upgrading in global value chains. Journal of Management Studies, 59(2), 390–416. https://doi.org/10.1111/joms.12739
+
+Di Gregorio, D., Musteen, M., & Thomas, D. E. (2009). Offshore outsourcing as a source of international competitiveness for SMEs. Journal of International Business Studies, 40(6), 969–988. https://doi.org/10.1057/jibs.2008.90
+
+Di Mauro, C., & Ancarani, A. (2022). A taxonomy of back-shoring initiatives in the US. International Business Review, 31(5), Article 102006. https://doi.org/10.1016/j.ibusrev.2022.102006
+
+Dimitropoulos, P., Koronios, K., & Sakka, G. (2023). International business sustainability and global value chains: Synthesis, framework and research agenda. Journal of International Management, 29(5), Article 101054. https://doi.org/10.1016/j.intman.2023.101054
+
+Dindial, M., Clegg, J., & Voss, H. (2020). Between a rock and a hard place: A critique of economic upgrading in global value chains. Global Strategy Journal, 10(3), 473–495. https://doi.org/10.1002/gsj.1382
+
+Distelhorst, G., & McGahan, A. (2022). Socially irresponsible employment in emerging-market manufacturers. Organization Science, 33(6), 2135–2158. https://doi.org/10.1287/orsc.2021.1526
+
+Distelhorst, G., Hainmueller, J., & Locke, R. M. (2017). Does lean improve labor standards? Management and social performance in the Nike supply chain. Management Science, 63(3), 707–728. https://doi.org/10.1287/mnsc.2015.2369
+
+Doh, J. P., Bunyaratavej, K., & Hahn, E. D. (2009). Separable but not equal: The location determinants of discrete services offshoring activities. Journal of International Business Studies, 40(6), 926–943. https://doi.org/10.1057/jibs.2008.89
+
+Drori, N., Andrews, D. S., Fainshmidt, S., & Gaur, A. (2026). Industry offshoring and firm internationalization: Complementarities in external learning. Journal of Management, 52(3), 981–1009. https://doi.org/10.1177/01492063241296838
+
+Duanmu, J.-L., & Fai, F. M. (2007). A processual analysis of knowledge transfer: From foreign MNEs to Chinese suppliers. International Business Review, 16(4), 449–473. https://doi.org/10.1016/j.ibusrev.2007.04.004
+
+Dyer, J., & Chu, W. (2011). The determinants of trust in supplier–automaker relations in the US, Japan, and Korea: A retrospective. Journal of International Business Studies, 42(1), 28–34. https://doi.org/10.1057/jibs.2010.48
+
+Elia, S., Caniato, F., Luzzini, D., & Piscitello, L. (2014). Governance choice in global sourcing of services: The impact on service quality and cost saving performance. Global Strategy Journal, 4(3), 181–199. https://doi.org/10.1002/gsj.1078
+
+Elia, S., Goerzen, A., Piscitello, L., & Valentino, A. (2024). Re‐evaluating the offshoring decision: A behavioural approach to the role of performance discrepancy. Journal of Management Studies, 61(1), 178–229. https://doi.org/10.1111/joms.12857
+
+Elia, S., Larsen, M. M., & Piscitello, L. (2023). Choosing misaligned governance modes when offshoring business functions: A prospect theory perspective. Global Strategy Journal, 13(2), 251–280. https://doi.org/10.1002/gsj.1445
+
+Enderwick, P., & Buckley, P. J. (2026). Networked MNEs and the costs of conflict. Journal of International Management, 32(4), Article 101372. https://doi.org/10.1016/j.intman.2026.101372
+
+Epede, M. B., & Wang, D. (2022). Global value chain linkages: An integrative review of the opportunities and challenges for SMEs in developing countries. International Business Review, 31(5), Article 101993. https://doi.org/10.1016/j.ibusrev.2022.101993
+
+Eriksson, T., Nummela, N., & Saarenketo, S. (2014). Dynamic capability in a small global factory. International Business Review, 23(1), 169–180. https://doi.org/10.1016/j.ibusrev.2013.03.007
+
+Essuman, D., Owusu-Yirenkyi, D., Afloe, W. T., & Donbesuur, F. (2023). Leveraging foreign diversification to build firm resilience: A conditional process perspective. Journal of International Management, 29(6), Article 101090. https://doi.org/10.1016/j.intman.2023.101090
+
+Falavigna, G., Ippoliti, R., & Ramello, G. B. (2025). Financial constraints, institutional quality and import trade flows: An empirical investigation on italian manufacturing SMEs. International Business Review, 34(4), Article 102453. https://doi.org/10.1016/j.ibusrev.2025.102453
+
+Fan, Z., Wang, T., Han, Z., & Jia, Y. (2025). Political affinity and opportunism in global supply chain: The mediating role of contractual and relational governance. International Business Review, 34(3), Article 102415. https://doi.org/10.1016/j.ibusrev.2025.102415
+
+Fisch, J. H., & Zschoche, M. (2011). Do firms benefit from multinationality through production shifting? Journal of International Management, 17(2), 143–149. https://doi.org/10.1016/j.intman.2011.01.004
+
+Fisch, J. H., & Zschoche, M. (2012). The role of operational flexibility in the expansion of international production networks. Strategic Management Journal, 33(13), 1540–1556. https://doi.org/10.1002/smj.1999
+
+Fortanier, F., Miao, G., Kolk, A., & Pisani, N. (2020). Accounting for firm heterogeneity in global value chains. Journal of International Business Studies, 51(3), 432–453. https://doi.org/10.1057/s41267-019-00282-0
+
+Foss, N. J., Mudambi, R., & Murtinu, S. (2019). Taxing the multinational enterprise: On the forced redesign of global value chains and other inefficiencies. Journal of International Business Studies, 50(9), 1644–1655. https://doi.org/10.1057/s41267-018-0159-3
+
+Fu, X. (2012). Foreign direct investment and managerial knowledge spillovers through the diffusion of management practices. Journal of Management Studies, 49(5), 970–999. https://doi.org/10.1111/j.1467-6486.2011.01036.x
+
+Fuchs, E., & Kirchain, R. (2010). Design for location? The impact of manufacturing offshore on technology competitiveness in the optoelectronics industry. Management Science, 56(12), 2323–2349. https://doi.org/10.1287/mnsc.1100.1227
+
+Funk, C. A., Arthurs, J. D., Treviño, L. J., & Joireman, J. (2010). Consumer animosity in the global value chain: The effect of international production shifts on willingness to purchase hybrid products. Journal of International Business Studies, 41(4), 639–651. https://doi.org/10.1057/jibs.2009.29
+
+Gao, G. G., Gopal, A., & Agarwal, R. (2010). Contingent effects of quality signaling: Evidence from the Indian offshore IT services industry. Management Science, 56(6), 1012–1029. https://doi.org/10.1287/mnsc.1100.1162
+
+Gao, H., Ren, M., & Shih, T.-Y. (2023). Co-evolutions in global decoupling: Learning from the global semiconductor industry. International Business Review, 32(6), Article 102118. https://doi.org/10.1016/j.ibusrev.2023.102118
+
+Gerbl, M., McIvor, R., Loane, S., & Humphreys, P. (2015). A multi-theory approach to understanding the business process outsourcing decision. Journal of World Business, 50(3), 505–518. https://doi.org/10.1016/j.jwb.2014.08.009
+
+Ghani, E., Kerr, W. R., & Stanton, C. (2014). Diasporas and outsourcing: Evidence from oDesk and India. Management Science, 60(7), 1677–1697. https://doi.org/10.1287/mnsc.2013.1832
+
+Giacosa, E., Crocco, E., Kubálek, J., & Culasso, F. (2024). Additive manufacturing in international business: Bridging academic and practitioners' perspectives. Journal of International Management, 30(3), Article 101151. https://doi.org/10.1016/j.intman.2024.101151
+
+Gibbs, J. L., Eisenberg, J., & Nekrassova, D. (2023). Second-class citizens or free agents? Social construction of equity perceptions of contractors in global offshoring arrangements. Journal of International Management, 29(6), Article 101092. https://doi.org/10.1016/j.intman.2023.101092
+
+Gibbs, J. L., Eisenberg, J., Fang, C., & Wilkenfeld, J. N. (2023). Examining how organizational continuities and discontinuities affect the job satisfaction of global contractors. Journal of International Management, 29(5), Article 101046. https://doi.org/10.1016/j.intman.2023.101046
+
+Giroud, A. (2007). MNEs vertical linkages: The experience of Vietnam after malaysia. International Business Review, 16(2), 159–176. https://doi.org/10.1016/j.ibusrev.2006.11.003
+
+Giroud, A., & Scott-Kennel, J. (2009). MNE linkages in international business: A framework for analysis. International Business Review, 18(6), 555–566. https://doi.org/10.1016/j.ibusrev.2009.07.004
+
+Gleich, W., Schmeisser, B., & Zschoche, M. (2017). The influence of competition on international sourcing strategies in the service sector. International Business Review, 26(2), 279–287. https://doi.org/10.1016/j.ibusrev.2016.07.005
+
+Glennon, B. (2024). How do restrictions on high-skilled immigration affect offshoring? Evidence from the h-1b program. Management Science, 70(2), 907–930. https://doi.org/10.1287/mnsc.2023.4715
+
+Gold, S., Hahn, R., & Seuring, S. (2013). Sustainable supply chain management in “base of the pyramid” food projects—a path to triple bottom line approaches for multinationals? International Business Review, 22(5), 784–799. https://doi.org/10.1016/j.ibusrev.2012.12.006
+
+Golgeci, I., Makhmadshoev, D., & Demirbag, M. (2021). Global value chains and the environmental sustainability of emerging market firms: A systematic review of literature and research agenda. International Business Review, 30(5), Article 101857. https://doi.org/10.1016/j.ibusrev.2021.101857
+
+Gonçalves, R., Vlačić, B., González-Loureiro, M., & Sousa, R. (2024). The impact of open innovation on the environmental sustainability practices and international sales intensity nexus: A multicountry study. International Business Review, 33(5), Article 102279. https://doi.org/10.1016/j.ibusrev.2024.102279
+
+Gooris, J., & Peeters, C. (2014). Home–host country distance in offshore governance choices. Journal of International Management, 20(1), 73–86. https://doi.org/10.1016/j.intman.2013.02.002
+
+Gooris, J., & Peeters, C. (2016). Fragmenting global business processes: A protection for proprietary information. Journal of International Business Studies, 47(5), 535–562. https://doi.org/10.1057/jibs.2015.44
+
+Grappi, S., Romani, S., & Bagozzi, R. P. (2018). Reshoring from a demand-side perspective: Consumer reshoring sentiment and its market effects. Journal of World Business, 53(2), 194–208. https://doi.org/10.1016/j.jwb.2017.11.001
+
+Grassi, G., Elia, S., Di Stefano, C., Guida, M., & Caniato, F. (2026). From trade-off to paradox: A configurational theorizing and “quantum” approach to the resilience–sustainability tension in global sourcing. Journal of International Business Studies. Advance online publication. https://doi.org/10.1057/s41267-026-00909-z
+
+Grecu, A., Sofka, W., Larsen, M. M., & Pedersen, T. (2022). Unintended signals: Why companies with a history of offshoring have to pay wage penalties for new hires. Journal of International Business Studies, 53(3), 534–549. https://doi.org/10.1057/s41267-021-00486-3
+
+Griffith, D. A., Harmancioglu, N., & Droge, C. (2009). Governance decisions for the offshore outsourcing of new product development in technology intensive markets. Journal of World Business, 44(3), 217–224. https://doi.org/10.1016/j.jwb.2008.08.007
+
+Grote, M. H., & Täube, F. A. (2007). When outsourcing is not an option: International relocation of investment bank research — or isn't IT? Journal of International Management, 13(1), 57–77. https://doi.org/10.1016/j.intman.2006.09.007
+
+Gölgeci, I., Assadinia, S., Kuivalainen, O., & Larimo, J. (2019). Emerging-market firms’ dynamic capabilities and international performance: The moderating role of institutional development and distance. International Business Review, 28(6), Article 101593. https://doi.org/10.1016/j.ibusrev.2019.101593
+
+Hannibal, M., & Knight, G. (2018). Additive manufacturing and the global factory: Disruptive technologies and the location of international business. International Business Review, 27(6), 1116–1127. https://doi.org/10.1016/j.ibusrev.2018.04.003
+
+Hansen, M. W., Pedersen, T., & Petersen, B. (2009). MNC strategies and linkage effects in developing countries. Journal of World Business, 44(2), 121–130. https://doi.org/10.1016/j.jwb.2008.05.002
+
+Harmanci, H., Khalik, M., & Godinez, J. (2025). Emerging market SMEs' internationalization enablers and their influence on internationalization patterns: The case of Turkish automotive suppliers. Journal of International Management, 31(5), Article 101281. https://doi.org/10.1016/j.intman.2025.101281
+
+Hashai, N., & Adler, N. (2021). Internalization choices under competition: A game theoretic approach. Global Strategy Journal, 11(1), 109–122. https://doi.org/10.1002/gsj.1333
+
+Hatani, F. (2009). The logic of spillover interception: The impact of global supply chains in China. Journal of World Business, 44(2), 158–166. https://doi.org/10.1016/j.jwb.2008.05.005
+
+Haworth, N. (2013). Compressed development: Global value chains, multinational enterprises and human resource development in 21st century Asia. Journal of World Business, 48(2), 251–259. https://doi.org/10.1016/j.jwb.2012.07.009
+
+He, S., Khan, Z., & Shenkar, O. (2018). Subsidiary capability upgrading under emerging market acquirers. Journal of World Business, 53(2), 248–262. https://doi.org/10.1016/j.jwb.2017.11.006
+
+Hennart, J. F. (2011). A theoretical assessment of the empirical literature on the impact of multinationality on performance. Global Strategy Journal, 1(1-2), 135–151. https://doi.org/10.1002/gsj.8
+
+Hennart, J.-F. (2020). More than intent: A bundling model of MNE–SME interactions. Journal of International Business Studies, 51(7), 1176–1194. https://doi.org/10.1057/s41267-020-00352-8
+
+Henry, L. A., Grimm, J., Lohmeyer, N., Apffelstaedt, K., & Giulini, S. (2026). Navigating regulatory transitions: The evolving role of multi‐stakeholder initiatives as intermediaries in the context of mandatory due diligence legislation. Journal of Management Studies. Advance online publication. https://doi.org/10.1111/joms.70133
+
+Herrigel, G., Wittke, V., & Voskamp, U. (2013). The process of Chinese manufacturing upgrading: Transitioning from unilateral to recursive mutual learning relations. Global Strategy Journal, 3(1), 109–125. https://doi.org/10.1111/j.2042-5805.2012.01046.x
+
+Hertenstein, P., & Alon, I. (2022). A learning portal model of emerging markets multinationals. Global Strategy Journal, 12(1), 134–162. https://doi.org/10.1002/gsj.1400
+
+Heucher, K., Schrage, S., & Abosag, I. (2024). When global is not enough: Applying a paradox lens to sustainability transitions in interorganizational systems. Journal of International Management, 30(5), Article 101186. https://doi.org/10.1016/j.intman.2024.101186
+
+Hillemann, J., & Gestrin, M. (2016). The limits of firm-level globalization: Revisiting the fsa/csa matrix. International Business Review, 25(3), 767–775. https://doi.org/10.1016/j.ibusrev.2016.01.018
+
+Hoberg, G., & Moon, S. K. (2019). The offshoring return premium. Management Science, 65(6), 2876–2899. https://doi.org/10.1287/mnsc.2017.2929
+
+Hong, J. F. L., & Snell, R. S. (2015). Knowledge development through co-opetition: A case study of a Japanese foreign subsidiary and its local suppliers. Journal of World Business, 50(4), 769–780. https://doi.org/10.1016/j.jwb.2015.03.003
+
+Hsieh, C., Lazzarini, S. G., Nickerson, J. A., & Laurini, M. (2010). Does ownership affect the variability of the production process? Evidence from international courier services. Organization Science, 21(4), 892–912. https://doi.org/10.1287/orsc.1090.0482
+
+Huang, Q., & Kim, R. (2019). Capital structure decisions along the supply chain: Evidence from import competition. Journal of International Business Studies, 50(6), 873–894. https://doi.org/10.1057/s41267-019-00225-9
+
+Huang, X., Fan, D., & Soo, C. (2025). A social influence view of the internationalization of cultural products. Journal of International Business Studies, 56(8), 990–1009. https://doi.org/10.1057/s41267-025-00797-9
+
+Hung, T. M., Contractor, F., & Lo, Y.-J. (2022). Manage the value and liability of offshoring innovation. International Business Review, 31(2), Article 101923. https://doi.org/10.1016/j.ibusrev.2021.101923
+
+Husted, B. W., Montiel, I., & Christmann, P. (2016). Effects of local legitimacy on certification decisions to global and national CSR standards by multinational subsidiaries and domestic firms. Journal of International Business Studies, 47(3), 382–397. https://doi.org/10.1057/jibs.2016.3
+
+Hutzschenreuter, T., & Gröne, F. (2009). Changing vertical integration strategies under pressure from foreign competition: The case of US and German multinationals. Journal of Management Studies, 46(2), 269–307. https://doi.org/10.1111/j.1467-6486.2008.00811.x
+
+Hutzschenreuter, T., Lewin, A. Y., & Dresel, S. (2011). Governance modes for offshoring activities: A comparison of US and German firms. International Business Review, 20(3), 291–313. https://doi.org/10.1016/j.ibusrev.2011.01.007
+
+Ibarra-Caton, M., & Mataloni, R. J. (2018). Headquarter services in the global integration of production. Journal of International Management, 24(2), 93–107. https://doi.org/10.1016/j.intman.2017.09.003
+
+Islam, M. T., & Chadee, D. (2023). Stuck at the bottom: Role of tacit and explicit knowledge on innovation of developing-country suppliers in global value chains. International Business Review, 32(2), Article 101898. https://doi.org/10.1016/j.ibusrev.2021.101898
+
+Islam, M. T., & Chadee, D. (2024). Adaptive governance and resilience of global value chains: A framework for sustaining the performance of developing-country suppliers during exogenous shocks. International Business Review, 33(2), Article 102248. https://doi.org/10.1016/j.ibusrev.2023.102248
+
+Jain, N., Girotra, K., & Netessine, S. (2014). Managing global sourcing: Inventory performance. Management Science, 60(5), 1202–1222. https://doi.org/10.1287/mnsc.2013.1816
+
+Jandhyala, S. (2013). Property rights and international investment in information technology services. Strategic Management Journal, 34(7), 877–889. https://doi.org/10.1002/smj.2032
+
+Javalgi, R. R. G., Dixit, A., & Scherer, R. F. (2009). Outsourcing to emerging markets: Theoretical perspectives and policy implications. Journal of International Management, 15(2), 156–168. https://doi.org/10.1016/j.intman.2008.08.001
+
+Jayasinghe, M. (2016). The operational and signaling benefits of voluntary labor code adoption: Reconceptualizing the scope of human resource management in emerging economies. Academy of Management Journal, 59(2), 658–677. https://doi.org/10.5465/amj.2014.0478
+
+Jayasinghe, M. (2024). The use of attendance incentive differentials for managing worker shortages: A study of export manufacturers in global supply chains. Journal of Management Studies, 61(3), 968–993. https://doi.org/10.1111/joms.12903
+
+Jean, R. J. B. (2014). What makes export manufacturers pursue functional upgrading in an emerging market? A study of Chinese technology new ventures. International Business Review, 23(4), 741–749. https://doi.org/10.1016/j.ibusrev.2014.03.009
+
+Jean, R. J. B., Kim, D., & Choi, K. (2021). Pattern of information technology use and relationship learning in international customer-supplier relationships. International Business Review, 30(4), Article 101815. https://doi.org/10.1016/j.ibusrev.2021.101815
+
+Jean, R.-J. B., Kim, D., Chiou, J.-S., & Calantone, R. (2018). Strategic orientations, joint learning, and innovation generation in international customer-supplier relationships. International Business Review, 27(4), 838–851. https://doi.org/10.1016/j.ibusrev.2018.01.007
+
+Jean, R.-J., Sinkovics, R. R., & Cavusgil, S. T. (2010). Enhancing international customer–supplier relationships through IT resources: A study of Taiwanese electronics suppliers. Journal of International Business Studies, 41(7), 1218–1239. https://doi.org/10.1057/jibs.2010.4
+
+Jensen, P. D. Ø. (2009). A learning perspective on the offshoring of advanced services. Journal of International Management, 15(2), 181–193. https://doi.org/10.1016/j.intman.2008.06.004
+
+Jensen, P. D. Ø. (2012). A passage to India: A dual case study of activities, processes and resources in offshore outsourcing of advanced services. Journal of World Business, 47(2), 311–326. https://doi.org/10.1016/j.jwb.2011.04.018
+
+Jensen, P. D. Ø., & Pedersen, T. (2011). The economic geography of offshoring: The fit between activities and local context. Journal of Management Studies, 48(2), 352–372. https://doi.org/10.1111/j.1467-6486.2010.00967.x
+
+Jensen, P. D. Ø., & Petersen, B. (2013). Global sourcing of services: Risk, process, and collaborative architecture. Global Strategy Journal, 3(1), 67–87. https://doi.org/10.1111/j.2042-5805.2012.01049.x
+
+Jensen, P. D. Ø., Larsen, M. M., & Pedersen, T. (2013). The organizational design of offshoring: Taking stock and moving forward. Journal of International Management, 19(4), 315–323. https://doi.org/10.1016/j.intman.2013.03.012
+
+Jia, F., Lamming, R., Sartor, M., Orzes, G., & Nassimbeni, G. (2014). International purchasing offices in China: A dynamic evolution model. International Business Review, 23(3), 580–593. https://doi.org/10.1016/j.ibusrev.2013.09.006
+
+Jia, F., Rutherford, C., & Lamming, R. (2016). Cultural adaptation and socialisation between Western buyers and Chinese suppliers: The formation of a hybrid culture. International Business Review, 25(6), 1246–1261. https://doi.org/10.1016/j.ibusrev.2016.03.009
+
+Jiao, C., Qi, A., & Chen, J. (2026). Combating excessive overtime in global supply chains: The workforce perspective. Management Science. Advance online publication. https://doi.org/10.1287/mnsc.2023.03852
+
+Jindra, B., Giroud, A., & Scott-Kennel, J. (2009). Subsidiary roles, vertical linkages and economic development: Lessons from transition economies. Journal of World Business, 44(2), 167–179. https://doi.org/10.1016/j.jwb.2008.05.006
+
+Ju, M., Murray, J. Y., Gao, G. Y., & Kotabe, M. (2019). Concurrent sourcing strategy of multinational firms in China: Drivers and performance implications. Journal of World Business, 54(6), Article 101015. https://doi.org/10.1016/j.jwb.2019.101015
+
+Jung, J. C., Heo, Y., & Whang, U. (2026). Protecting CSR-based reputation abroad: Intra‐firm trade as a governance mechanism. Global Strategy Journal, 16(1), 39–65. https://doi.org/10.1002/gsj.70002
+
+Kano, L. (2018). Global value chain governance: A relational perspective. Journal of International Business Studies, 49(6), 684–705. https://doi.org/10.1057/s41267-017-0086-8
+
+Kano, L., & Oh, C. H. (2020). Global value chains in the post‐COVID world: Governance for reliability. Journal of Management Studies, 57(8), 1773–1777. https://doi.org/10.1111/joms.12626
+
+Kano, L., Tsang, E. W. K., & Yeung, H. W.-C. (2020). Global value chains: A review of the multi-disciplinary literature. Journal of International Business Studies, 51(4), 577–622. https://doi.org/10.1057/s41267-020-00304-2
+
+Karjalainen, K., & Salmi, A. (2013). Continental differences in purchasing strategies and tools. International Business Review, 22(1), 112–125. https://doi.org/10.1016/j.ibusrev.2012.02.008
+
+Kedia, B. L., & Lahiri, S. (2007). International outsourcing of services: A partnership model. Journal of International Management, 13(1), 22–37. https://doi.org/10.1016/j.intman.2006.09.006
+
+Kedia, B. L., & Mukherjee, D. (2009). Understanding offshoring: A research framework based on disintegration, location and externalization advantages. Journal of World Business, 44(3), 250–261. https://doi.org/10.1016/j.jwb.2008.08.005
+
+Kenney, M., Massini, S., & Murtha, T. P. (2009). Introduction. Journal of International Business Studies, 40(6), 887–900. https://doi.org/10.1057/jibs.2009.22
+
+Ketkar, S., Kock, N., Parente, R., & Verville, J. (2012). The impact of individualism on buyer–supplier relationship norms, trust and market performance: An analysis of data from Brazil and the U.S.a. International Business Review, 21(5), 782–793. https://doi.org/10.1016/j.ibusrev.2011.09.003
+
+Khan, M., Donaghey, J., & Reinecke, J. (2026). Relative autonomy beyond the state: Private transnational regulation and the politics of labour governance in Bangladesh. Journal of Management Studies. Advance online publication. https://doi.org/10.1111/joms.70150
+
+Khan, Z., & Nicholson, J. D. (2014). An investigation of the cross-border supplier development process: Problems and implications in an emerging economy. International Business Review, 23(6), 1212–1222. https://doi.org/10.1016/j.ibusrev.2014.05.001
+
+Khan, Z., Lew, Y. K., & Sinkovics, R. R. (2015). International joint ventures as boundary spanners: Technological knowledge transfer in an emerging economy. Global Strategy Journal, 5(1), 48–68. https://doi.org/10.1002/gsj.1089
+
+Khan, Z., Shenkar, O., & Lew, Y. K. (2015). Knowledge transfer from international joint ventures to local suppliers in a developing economy. Journal of International Business Studies, 46(6), 656–675. https://doi.org/10.1057/jibs.2015.7
+
+Kim, J.-J., & Hemmert, M. (2016). What drives the export performance of small and medium-sized subcontracting firms? A study of Korean manufacturers. International Business Review, 25(2), 511–521. https://doi.org/10.1016/j.ibusrev.2015.09.002
+
+Kim, Y. H., & Davis, G. F. (2016). Challenges for global supply chain sustainability: Evidence from conflict minerals reports. Academy of Management Journal, 59(6), 1896–1916. https://doi.org/10.5465/amj.2015.0770
+
+Kirste, L., Oberhauser, M., & Holtbrügge, D. (2024). What drives the dissemination of CSR practices in global value chains? An institutional and psychological perspective. International Business Review, 33(1), Article 102218. https://doi.org/10.1016/j.ibusrev.2023.102218
+
+Knight, J. G., Holdsworth, D. K., & Mather, D. W. (2007). Country-of-origin and choice of food imports: An in-depth study of European distribution channel gatekeepers. Journal of International Business Studies, 38(1), 107–125. https://doi.org/10.1057/palgrave.jibs.8400250
+
+Konara, P., Mohr, A., Shirodkar, V., & Kiefner, V. (2026). Diversifying for resilience: How supply base international diversification relates to supply base sustainability performance. Journal of International Business Studies. Advance online publication. https://doi.org/10.1057/s41267-026-00899-y
+
+Koppman, S., Mattarelli, E., & Gupta, A. (2016). Third-World “sloggers” or elite global professionals? Using organizational toolkits to redefine work identity in information technology offshore outsourcing. Organization Science, 27(4), 825–845. https://doi.org/10.1287/orsc.2016.1068
+
+Kotabe, M., & Mudambi, R. (2009). Global sourcing and value creation: Opportunities and challenges. Journal of International Management, 15(2), 121–125. https://doi.org/10.1016/j.intman.2009.03.001
+
+Kotabe, M., Parente, R., & Murray, J. Y. (2007). Antecedents and outcomes of modular production in the Brazilian automobile industry: A grounded theory approach. Journal of International Business Studies, 38(1), 84–106. https://doi.org/10.1057/palgrave.jibs.8400244
+
+Kotha, S., & Srikanth, K. (2013). Managing a global partnership model: Lessons from the Boeing 787 ‘Dreamliner’ program. Global Strategy Journal, 3(1), 41–66. https://doi.org/10.1111/j.2042-5805.2012.01050.x
+
+Kshetri, N. (2007). Institutional factors affecting offshore business process and information technology outsourcing. Journal of International Management, 13(1), 38–56. https://doi.org/10.1016/j.intman.2006.05.003
+
+Kshetri, N., & Dholakia, N. (2009). Professional and trade associations in a nascent and formative sector of a developing economy: A case study of the NASSCOM effect on the Indian offshoring industry. Journal of International Management, 15(2), 225–239. https://doi.org/10.1016/j.intman.2008.09.003
+
+Kubny, J., & Voss, H. (2014). Benefitting from Chinese FDI? An assessment of vertical linkages with Vietnamese manufacturing firms. International Business Review, 23(4), 731–740. https://doi.org/10.1016/j.ibusrev.2013.11.002
+
+Kumar, K., van Fenema, P. C., & von Glinow, M. A. (2009). Offshoring and the global distribution of work: Implications for task interdependence theory and practice. Journal of International Business Studies, 40(4), 642–667. https://doi.org/10.1057/jibs.2008.77
+
+Kumaraswamy, A., Mudambi, R., Saranga, H., & Tripathy, A. (2012). Catch-up strategies in the Indian auto components industry: Domestic firms’ responses to market liberalization. Journal of International Business Studies, 43(4), 368–395. https://doi.org/10.1057/jibs.2012.4
+
+Kähäri, P., Saittakari, I., Piekkari, R., & Barner‐Rasmussen, W. (2017). Explaining mandate loss of regional headquarters: The difference between full and partial loss. Journal of Management Studies, 54(8), 1206–1240. https://doi.org/10.1111/joms.12310
+
+Lahiri, S., & Kedia, B. L. (2011). Co-evolution of institutional and organizational factors in explaining offshore outsourcing. International Business Review, 20(3), 252–263. https://doi.org/10.1016/j.ibusrev.2011.01.005
+
+Lahiri, S., Kedia, B. L., & Mukherjee, D. (2012). The impact of management capability on the resource–performance linkage: Examining Indian outsourcing providers. Journal of World Business, 47(1), 145–155. https://doi.org/10.1016/j.jwb.2011.02.001
+
+Lamin, A., & Zaheer, S. (2012). Wall Street vs. Main Street: Firm strategies for defending legitimacy and their impact on different stakeholders. Organization Science, 23(1), 47–66. https://doi.org/10.1287/orsc.1100.0631
+
+Lampel, J., & Bhalla, A. (2011). Living with offshoring: The impact of offshoring on the evolution of organizational configurations. Journal of World Business, 46(3), 346–358. https://doi.org/10.1016/j.jwb.2010.07.007
+
+Laplume, A. O., Petersen, B., & Pearce, J. M. (2016). Global value chains from a 3d printing perspective. Journal of International Business Studies, 47(5), 595–609. https://doi.org/10.1057/jibs.2015.47
+
+Larsen, M. M. (2016). Failing to estimate the costs of offshoring: A study on process performance. International Business Review, 25(1), 307–318. https://doi.org/10.1016/j.ibusrev.2015.05.008
+
+Larsen, M. M., Manning, S., & Pedersen, T. (2013). Uncovering the hidden costs of offshoring: The interplay of complexity, organizational design, and experience. Strategic Management Journal, 34(5), 533–552. https://doi.org/10.1002/smj.2023
+
+Lartey, T. A., Amankwah-Amoah, J., Danso, A., Adomako, S., Khan, Z., & Tarba, S. Y. (2021). Environmental sustainability practices and offshoring activities of multinational corporations across emerging and developed markets. International Business Review, 30(5), Article 101789. https://doi.org/10.1016/j.ibusrev.2020.101789
+
+Lazzarini, S. G. (2015). Strategizing by the government: Can industrial policy create firm‐level competitive advantage? Strategic Management Journal, 36(1), 97–112. https://doi.org/10.1002/smj.2204
+
+Lechner, C., Lorenzoni, G., Guercini, S., & Gueguen, G. (2020). Supplier evolution in global value chains and the new brand game from an attention‐based view. Global Strategy Journal, 10(3), 520–555. https://doi.org/10.1002/gsj.1381
+
+Lee, J. Y., Cui, L., Pattnaik, C., & Choi, B. (2026). Digital transformation and the offshore outsourcing behavior of manufacturing MNEs. Journal of International Business Studies, 57(6), 909–930. https://doi.org/10.1057/s41267-025-00816-9
+
+Lee, J. Y., Jiménez, A., Yang, Y. S., & Song, Y. (2020). Political risk, internal versus global value chain knowledge, and subsidiary operational integration. Global Strategy Journal, 10(3), 444–472. https://doi.org/10.1002/gsj.1377
+
+Lee, J. Y., Kim, D., Choi, B., & Jiménez, A. (2023). Early evidence on how industry 4.0 reshapes MNEs’ global value chains: The role of value creation versus value capturing by headquarters and foreign subsidiaries. Journal of International Business Studies, 54(4), 599–630. https://doi.org/10.1057/s41267-022-00596-6
+
+Lehdonvirta, V., Kässi, O., Hjorth, I., Barnard, H., & Graham, M. (2019). The global platform economy: A new offshoring institution enabling emerging-economy microproviders. Journal of Management, 45(2), 567–599. https://doi.org/10.1177/0149206318786781
+
+Leiblein, M. J., Larsen, M. M., & Pedersen, T. (2022). Are governance mode and foreign location choices independent? Global Strategy Journal, 12(2), 273–307. https://doi.org/10.1002/gsj.1420
+
+Leonidou, L. C., Aykol, B., Fotiadis, T. A., Christodoulides, P., & Zeriti, A. (2017). Betrayal in international buyer-seller relationships: Its drivers and performance implications. Journal of World Business, 52(1), 28–44. https://doi.org/10.1016/j.jwb.2016.10.007
+
+Leonidou, L. C., Palihawadana, D., Chari, S., & Leonidou, C. N. (2011). Drivers and outcomes of importer adaptation in international buyer–seller relationships. Journal of World Business, 46(4), 527–543. https://doi.org/10.1016/j.jwb.2010.10.013
+
+Lewin, A. Y., & Volberda, H. W. (2011). Co-evolution of global sourcing: The need to understand the underlying mechanisms of firm-decisions to offshore. International Business Review, 20(3), 241–251. https://doi.org/10.1016/j.ibusrev.2011.02.008
+
+Lewin, A. Y., Massini, S., & Peeters, C. (2009). Why are companies offshoring innovation? The emerging global race for talent. Journal of International Business Studies, 40(6), 901–925. https://doi.org/10.1057/jibs.2008.92
+
+Li, C., & Cuervo-Cazurra, A. (2024). How subsidiary and supplier misbehavior lead to corporate social responsibility performance improvements in multinationals. Journal of International Business Studies, 55(4), 470–491. https://doi.org/10.1057/s41267-023-00666-3
+
+Li, J. J., Poppo, L., & Zhou, K. Z. (2010). Relational mechanisms, formal contracts, and local knowledge acquisition by international subsidiaries. Strategic Management Journal, 31(4), 349–370. https://doi.org/10.1002/smj.813
+
+Li, M., Zhang, H., Zhang, L., & Zheng, H. (2026). Home-country climate regulation and strategic response of multinational enterprises: Investment relocation or green innovation? International Business Review, 35(4), Article 102597. https://doi.org/10.1016/j.ibusrev.2026.102597
+
+Li, S., & Goerzen, A. (2024). Improving global value chain governance: Empowering women through third-party interventions within institutionally fragile contexts. Journal of World Business, 59(3), Article 101533. https://doi.org/10.1016/j.jwb.2024.101533
+
+Li, X., & Zhou, Y. M. (2017). Offshoring pollution while offshoring production? Strategic Management Journal, 38(11), 2310–2329. https://doi.org/10.1002/smj.2656
+
+Li, Y., Wei, Z., & Liu, Y. (2010). Strategic orientations, knowledge acquisition, and firm performance: The perspective of the vendor in cross‐border outsourcing. Journal of Management Studies, 47(8), 1457–1482. https://doi.org/10.1111/j.1467-6486.2010.00949.x
+
+Liu, C.-L. E., & Zhang, Y. (2014). Learning process and capability formation in cross-border buyer–supplier relationships: A qualitative case study of Taiwanese technological firms. International Business Review, 23(4), 718–730. https://doi.org/10.1016/j.ibusrev.2013.11.001
+
+Liu, C.-L.-E. (2012). An investigation of relationship learning in cross-border buyer–supplier relationships: The role of trust. International Business Review, 21(3), 311–327. https://doi.org/10.1016/j.ibusrev.2011.05.005
+
+Liu, R., Feils, D. J., & Scholnick, B. (2011). Why are different services outsourced to different countries? Journal of International Business Studies, 42(4), 558–571. https://doi.org/10.1057/jibs.2010.61
+
+Liu, S. Y. H., Deligonul, S., Cavusgil, S. T., & Chiou, J.-S. (2021). Addressing psychic distance and learning in international buyer-seller relationships: The role of firm exploration and asset specificity. Journal of World Business, 56(4), Article 101208. https://doi.org/10.1016/j.jwb.2021.101208
+
+Liu, S., Su, L., Wu, F., & Zhu, X. (2024). Participation and upgrading along global value chains: The role of audit oversight. Journal of International Business Studies, 55(9), 1128–1149. https://doi.org/10.1057/s41267-024-00719-1
+
+Liu, W., & Heugens, P. P. M. A. R. (2024). Cross-sector collaborations in global supply chains as an opportunity structure: How ngos promote corporate sustainability in China. Journal of International Business Studies, 55(4), 429–449. https://doi.org/10.1057/s41267-023-00644-9
+
+Liu, X., Hassan, J., Gao, H., & Sharma, R. R. (2025). A typology of de-coupling in international sourcing by MNEs in selective de-globalization. Journal of International Management, 31(6), Article 101304. https://doi.org/10.1016/j.intman.2025.101304
+
+Liu, X., Wang, C., & Wei, Y. (2009). Do local manufacturing firms benefit from transactional linkages with multinational enterprises in China? Journal of International Business Studies, 40(7), 1113–1130. https://doi.org/10.1057/jibs.2008.97
+
+Lohmeyer, N., Schüßler, E., & Ashwin, S. (2026). From contested endogenization to regulatory unravelling of mandatory human rights due diligence: Extending the endogeneity of law framework. Journal of Management Studies. Advance online publication. https://doi.org/10.1111/joms.70180
+
+Lojacono, G., Misani, N., & Tallman, S. (2017). Offshoring, local market entry, and the strategic context of cross-border alliances: The impact on the governance mode. International Business Review, 26(3), 435–447. https://doi.org/10.1016/j.ibusrev.2016.10.006
+
+Lorentz, H., Kumar, M., & Srai, J. S. (2018). Managing distance in international purchasing and supply: A systematic review of literature from the resource-based view perspective. International Business Review, 27(2), 339–354. https://doi.org/10.1016/j.ibusrev.2017.09.002
+
+Lorentz, H., Töyli, J., Solakivi, T., & Ojala, L. (2016). The effect of a geographically dispersed supply base on downside risk: Developing and testing the N-shaped theory. International Business Review, 25(4), 872–882. https://doi.org/10.1016/j.ibusrev.2015.10.009
+
+Lunnan, R., & McGaughey, S. L. (2019). Orchestrating international production networks when formal authority shifts. Journal of World Business, 54(5), Article 101000. https://doi.org/10.1016/j.jwb.2019.101000
+
+Luo, Y., & Van Assche, A. (2023). The rise of techno-geopolitical uncertainty: Implications of the united states chips and science act. Journal of International Business Studies, 54(8), 1423–1440. https://doi.org/10.1057/s41267-023-00620-3
+
+Luo, Y., Wang, S. L., Jayaraman, V., & Zheng, Q. (2013). Governing business process offshoring: Properties, processes, and preferred modes. Journal of World Business, 48(3), 407–419. https://doi.org/10.1016/j.jwb.2012.07.024
+
+Luo, Y., Wang, S. L., Zheng, Q., & Jayaraman, V. (2012). Task attributes and process integration in business process offshoring: A perspective of service providers from India and China. Journal of International Business Studies, 43(5), 498–524. https://doi.org/10.1057/jibs.2012.8
+
+Manning, S. (2014). Mitigate, tolerate or relocate? Offshoring challenges, strategic imperatives and resource constraints. Journal of World Business, 49(4), 522–535. https://doi.org/10.1016/j.jwb.2013.12.006
+
+Manning, S., Kannothra, C. G., & Wissman‐Weber, N. K. (2017). The strategic potential of community‐based hybrid models: The case of global business services in Africa. Global Strategy Journal, 7(1), 125–149. https://doi.org/10.1002/gsj.1147
+
+Manning, S., Larsen, M. M., & Bharati, P. (2015). Global delivery models: The role of talent, speed and time zones in the global outsourcing industry. Journal of International Business Studies, 46(7), 850–877. https://doi.org/10.1057/jibs.2015.14
+
+Manning, S., Massini, S., Peeters, C., & Lewin, A. Y. (2018). The changing rationale for governance choices: Early vs. late adopters of global services sourcing. Strategic Management Journal, 39(8), 2303–2334. https://doi.org/10.1002/smj.2795
+
+Marano, V., Wilhelm, M., Kostova, T., Doh, J., & Beugelsdijk, S. (2024). Multinational firms and sustainability in global supply chains: Scope and boundaries of responsibility. Journal of International Business Studies, 55(4), 413–428. https://doi.org/10.1057/s41267-024-00706-6
+
+Martinez-Noya, A., Garcia-Canal, E., & Guillen, M. F. (2012). International R&D service outsourcing by technology-intensive firms: Whether and where? Journal of International Management, 18(1), 18–37. https://doi.org/10.1016/j.intman.2011.06.004
+
+Martínez-Noya, A., & García-Canal, E. (2011). Technological capabilities and the decision to outsource/outsource offshore R&D services. International Business Review, 20(3), 264–277. https://doi.org/10.1016/j.ibusrev.2011.01.008
+
+Mattarelli, E., & Tagliaventi, M. R. (2015). How offshore professionals' job dissatisfaction can promote further offshoring: Organizational outcomes of job crafting. Journal of Management Studies, 52(5), 585–620. https://doi.org/10.1111/j.1467-6486.2012.01088.x
+
+Mauri, A. J., & Neiva de Figueiredo, J. (2012). Strategic patterns of internationalization and performance variability: Effects of US-based MNC cross-border dispersion, integration, and outsourcing. Journal of International Management, 18(1), 38–51. https://doi.org/10.1016/j.intman.2011.10.003
+
+McDermott, G. A., & Corredoira, R. A. (2010). Network composition, collaborative ties, and upgrading in emerging-market firms: Lessons from the argentine autoparts sector. Journal of International Business Studies, 41(2), 308–329. https://doi.org/10.1057/jibs.2009.7
+
+McDermott, G., Mudambi, R., & Parente, R. (2013). Strategic modularity and the architecture of multinational firm. Global Strategy Journal, 3(1), 1–7. https://doi.org/10.1111/j.2042-5805.2012.01051.x
+
+McIvor, R., & Bals, L. (2021). A multi-theory framework for understanding the reshoring decision. International Business Review, 30(6), Article 101827. https://doi.org/10.1016/j.ibusrev.2021.101827
+
+McWilliam, S. E., Kim, J. K., Mudambi, R., & Nielsen, B. B. (2020). Global value chain governance: Intersections with international business. Journal of World Business, 55(4), Article 101067. https://doi.org/10.1016/j.jwb.2019.101067
+
+Mei, M. Q., Wang, L., & Yan, J. (2023). Maintaining product quality consistency when offshoring to emerging markets: The role of subsidiary control. Journal of International Management, 29(1), Article 100989. https://doi.org/10.1016/j.intman.2022.100989
+
+Mesquita, L. F., & Lazzarini, S. G. (2008). Horizontal and vertical relationships in developing economies: Implications for SMEs' access to global markets. Academy of Management Journal, 51(2), 359–380. https://doi.org/10.5465/amj.2008.31767280
+
+Mihalache, O. R., Jansen, J. J. J. P., Van Den Bosch, F. A. J., & Volberda, H. W. (2012). Offshoring and firm innovation: The moderating role of top management team attributes. Strategic Management Journal, 33(13), 1480–1498. https://doi.org/10.1002/smj.1983
+
+Miozzo, M., & Grimshaw, D. (2008). Service multinationals and forward linkages with client firms: The case of IT outsourcing in Argentina and Brazil. International Business Review, 17(1), 8–27. https://doi.org/10.1016/j.ibusrev.2007.08.001
+
+Mol, M. J., & Brandl, K. (2018). Bridging what we know: The effect of cognitive distance on knowledge-intensive business services produced offshore. International Business Review, 27(3), 669–677. https://doi.org/10.1016/j.ibusrev.2017.11.003
+
+Mol, M. J., & Brewster, C. (2014). The outsourcing strategy of local and multinational firms: A supply base perspective. Global Strategy Journal, 4(1), 20–34. https://doi.org/10.1111/j.2042-5805.2013.01070.x
+
+Mol, M. J., & Lee, S. H. (2024). What produces corporate social irresponsibility in offshore outsourcing? The effects of interorganizational relationship governance and institutional distance. Journal of International Business Studies, 55(5), 577–592. https://doi.org/10.1057/s41267-023-00664-5
+
+Mudambi, R., & Puck, J. (2016). A global value chain analysis of the ‘regional strategy’ perspective. Journal of Management Studies, 53(6), 1076–1093. https://doi.org/10.1111/joms.12189
+
+Mudambi, R., & Venzin, M. (2010). The strategic nexus of offshoring and outsourcing decisions. Journal of Management Studies, 47(8), 1510–1533. https://doi.org/10.1111/j.1467-6486.2010.00947.x
+
+Mukherjee, D., Gaur, A. S., & Datta, A. (2013). Creating value through offshore outsourcing: An integrative framework. Journal of International Management, 19(4), 377–389. https://doi.org/10.1016/j.intman.2013.03.015
+
+Mukherjee, D., Kumar, S., Pandey, N., & Lahiri, S. (2023). Is offshoring dead? A multidisciplinary review and future directions. Journal of International Management, 29(3), Article 101017. https://doi.org/10.1016/j.intman.2023.101017
+
+Muller, A., & Kolk, A. (2010). Extrinsic and intrinsic drivers of corporate social performance: Evidence from foreign and domestic firms in Mexico. Journal of Management Studies, 47(1), 1–26. https://doi.org/10.1111/j.1467-6486.2009.00855.x
+
+Murphree, M., & Anderson, J. A. (2018). Countering overseas power in global value chains: Information asymmetries and subcontracting in the plastics industry. Journal of International Management, 24(2), 123–136. https://doi.org/10.1016/j.intman.2017.09.007
+
+Murphree, M., & Breznitz, D. (2020). Collaborative public spaces and upgrading through global value chains: The case of dongguan, China. Global Strategy Journal, 10(3), 556–584. https://doi.org/10.1002/gsj.1378
+
+Nandkumar, A., & Srikanth, K. (2016). Right person in the right place: How the host country IPR influences the distribution of inventors in offshore R&D projects of multinational enterprises. Strategic Management Journal, 37(8), 1715–1733. https://doi.org/10.1002/smj.2418
+
+Narula, R. (2019). Enforcing higher labor standards within developing country value chains: Consequences for MNEs and informal actors in a dual economy. Journal of International Business Studies, 50(9), 1622–1635. https://doi.org/10.1057/s41267-019-00265-1
+
+Nas, T. I., Sahin, F., Golgeci, I., & Okan, T. (2026). Institutional and relational underpinnings of vertical FDI spillovers in international buyer-supplier relationships: Insights from automotive suppliers. Journal of International Management, 32(2), Article 101340. https://doi.org/10.1016/j.intman.2026.101340
+
+Nieto, M. J., & Rodríguez, A. (2011). Offshoring of R&D: Looking abroad to improve innovation performance. Journal of International Business Studies, 42(3), 345–361. https://doi.org/10.1057/jibs.2010.59
+
+Oh, C. H., & Oetzel, J. (2022). Multinational enterprises and natural disasters: Challenges and opportunities for IB research. Journal of International Business Studies, 53(2), 231–254. https://doi.org/10.1057/s41267-021-00483-6
+
+Oliveira, L., Fleury, A., & Fleury, M. T. (2021). Digital power: Value chain upgrading in an age of digitization. International Business Review, 30(6), Article 101850. https://doi.org/10.1016/j.ibusrev.2021.101850
+
+Orlando, B., Tortora, D., Pezzi, A., & Bitbol-Saba, N. (2022). The disruption of the international supply chain: Firm resilience and knowledge preparedness to tackle the COVID-19 outbreak. Journal of International Management, 28(1), Article 100876. https://doi.org/10.1016/j.intman.2021.100876
+
+Pananond, P. (2013). Where do we go from here?: Globalizing subsidiaries moving up the value chain. Journal of International Management, 19(3), 207–219. https://doi.org/10.1016/j.intman.2013.03.002
+
+Pananond, P., Gereffi, G., & Pedersen, T. (2020). An integrative typology of global strategy and global value chains: The management and organization of cross‐border activities. Global Strategy Journal, 10(3), 421–443. https://doi.org/10.1002/gsj.1388
+
+Parente, R. C., Baack, D. W., & Hahn, E. D. (2011). The effect of supply chain integration, modular production, and cultural distance on new product development: A dynamic capabilities approach. Journal of International Management, 17(4), 278–290. https://doi.org/10.1016/j.intman.2011.08.001
+
+Park, J., Lim, M. K., & Murali, K. (2024). Informal cross-border trade in Africa: Operations, policy, and opportunities. Management Science, 70(10), 7142–7160. https://doi.org/10.1287/mnsc.2022.02479
+
+Parkhe, A. (2007). International outsourcing of services: Introduction to the special issue. Journal of International Management, 13(1), 3–6. https://doi.org/10.1016/j.intman.2006.12.004
+
+Pasquali, G. P. (2021). When value chains go South: Upgrading in the Kenyan leather sector. Journal of World Business, 56(2), Article 101161. https://doi.org/10.1016/j.jwb.2020.101161
+
+Pedroletti, D. (2025). Network effects of partial reshoring in the internationalization process. International Business Review, 34(3), Article 102401. https://doi.org/10.1016/j.ibusrev.2025.102401
+
+Pedroletti, D., Ciabuschi, F., & Su, C. (2026). Further offshoring, nearshoring, and reshoring: Exploring the role of experience. Global Strategy Journal. Advance online publication. https://doi.org/10.1002/gsj.70017
+
+Peeters, C., Dehon, C., & Garcia-Prieto, P. (2015). The attention stimulus of cultural differences in global services sourcing. Journal of International Business Studies, 46(2), 241–251. https://doi.org/10.1057/jibs.2014.30
+
+Peng, J., Liu, B., Wu, J., & Xin, X. (2024). Financial statement comparability and global supply chain relations. Journal of International Business Studies, 55(3), 342–360. https://doi.org/10.1057/s41267-023-00673-4
+
+Pereira, V., & Anderson, V. (2012). A longitudinal examination of HRM in a human resources offshoring (HRO) organization operating from India. Journal of World Business, 47(2), 223–231. https://doi.org/10.1016/j.jwb.2011.04.009
+
+Pereira, V., Budhwar, P., Temouri, Y., Malik, A., & Tarba, S. (2021). Investigating investments in agility strategies in overcoming the global financial crisis - the case of Indian IT/BPO offshoring firms. Journal of International Management, 27(1), Article 100738. https://doi.org/10.1016/j.intman.2020.100738
+
+Perri, A., Andersson, U., Nell, P. C., & Santangelo, G. D. (2013). Balancing the trade-off between learning prospects and spillover risks: MNC subsidiaries’ vertical linkage patterns in developed countries. Journal of World Business, 48(4), 503–514. https://doi.org/10.1016/j.jwb.2012.09.006
+
+Petricevic, O., & Teece, D. J. (2019). The structural reshaping of globalization: Implications for strategic sectors, profiting from innovation, and the multinational enterprise. Journal of International Business Studies, 50(9), 1487–1512. https://doi.org/10.1057/s41267-019-00269-x
+
+Pham, H. S. T., & Petersen, B. (2021). The bargaining power, value capture, and export performance of Vietnamese manufacturers in global value chains. International Business Review, 30(6), Article 101829. https://doi.org/10.1016/j.ibusrev.2021.101829
+
+Pillich, S. M. (2025). Unveiling de-globalization and its management strategies: A case study of the German automotive industry. Journal of International Management, 31(4), Article 101253. https://doi.org/10.1016/j.intman.2025.101253
+
+Preuss, L., Barkemeyer, R., Arora, B., & Banerjee, S. (2024). Sensemaking along global supply chains: Implications for the ability of the MNE to manage sustainability challenges. Journal of International Business Studies, 55(4), 492–514. https://doi.org/10.1057/s41267-024-00708-4
+
+Qamar, A., Gardner, E. C., Buckley, T., & Zhao, K. (2021). Home-owned versus foreign-owned firms in the UK automotive industry: Exploring the microfoundations of ambidextrous production and supply chain positioning. International Business Review, 30(1), Article 101657. https://doi.org/10.1016/j.ibusrev.2019.101657
+
+Raman, R., Chadee, D., Roxas, B., & Michailova, S. (2013). Effects of partnership quality, talent management, and global mindset on performance of offshore IT service providers in India. Journal of International Management, 19(4), 333–346. https://doi.org/10.1016/j.intman.2013.03.010
+
+Reinecke, J., & Donaghey, J. (2021). Political CSR at the coalface – the roles and contradictions of multinational corporations in developing workplace dialogue. Journal of Management Studies, 58(2), 457–486. https://doi.org/10.1111/joms.12585
+
+Riikkinen, R., Kauppi, K., & Salmi, A. (2017). Learning sustainability? Absorptive capacities as drivers of sustainability in MNCs’ purchasing. International Business Review, 26(6), 1075–1087. https://doi.org/10.1016/j.ibusrev.2017.04.001
+
+Ritchie, W. J., & Melnyk, S. A. (2012). The impact of emerging institutional norms on adoption timing decisions: Evidence from C-TPAT—a government antiterrorism initiative. Strategic Management Journal, 33(7), 860–870. https://doi.org/10.1002/smj.1948
+
+Rodriguez, C., Ciravegna, L., & Petersen, B. (2023). Geographical reconfiguration in global value chains: Search within limited space? Global Strategy Journal, 13(2), 440–482. https://doi.org/10.1002/gsj.1441
+
+Rodríguez, A., & Nieto, M. J. (2016). Does R&D offshoring lead to SME growth? Different governance modes and the mediating role of innovation. Strategic Management Journal, 37(8), 1734–1753. https://doi.org/10.1002/smj.2413
+
+Rosenbusch, N., Gusenbauer, M., Hatak, I., Fink, M., & Meyer, K. E. (2019). Innovation offshoring, institutional context and innovation performance: A meta‐analysis. Journal of Management Studies, 56(1), 203–233. https://doi.org/10.1111/joms.12407
+
+Roza, M., Van den Bosch, F. A. J., & Volberda, H. W. (2011). Offshoring strategy: Motives, functions, locations, and governance modes of small, medium-sized and large firms. International Business Review, 20(3), 314–323. https://doi.org/10.1016/j.ibusrev.2011.02.002
+
+Rugman, A., Verbeke, A., & Yuan, W. (2011). Re‐conceptualizing Bartlett and Ghoshal's classification of national subsidiary roles in the multinational enterprise. Journal of Management Studies, 48(2), 253–277. https://doi.org/10.1111/j.1467-6486.2010.00969.x
+
+Ryan, P., Buciuni, G., Giblin, M., & Andersson, U. (2020). Subsidiary upgrading and global value chain governance in the multinational enterprise. Global Strategy Journal, 10(3), 496–519. https://doi.org/10.1002/gsj.1387
+
+Sacco, F., Magnani, G., & Previtali, P. (2025). Beyond the "eye of the storm": A processual and multi-layered approach to global value chain resilience. International Business Review, 34(6), Article 102460. https://doi.org/10.1016/j.ibusrev.2025.102460
+
+Santangelo, G. D. (2009). MNCs and linkages creation: Evidence from a peripheral area. Journal of World Business, 44(2), 192–205. https://doi.org/10.1016/j.jwb.2008.05.009
+
+Santangelo, G. D., Meyer, K. E., & Jindra, B. (2016). MNE subsidiaries’ outsourcing and insourcing of R&D: The role of local institutions. Global Strategy Journal, 6(4), 247–268. https://doi.org/10.1002/gsj.1137
+
+Sartor, M. A., & Beamish, P. W. (2014). Offshoring innovation to emerging markets: Organizational control and informal institutional distance. Journal of International Business Studies, 45(9), 1072–1095. https://doi.org/10.1057/jibs.2014.36
+
+Schmeisser, B. (2013). A systematic review of literature on offshoring of value chain activities. Journal of International Management, 19(4), 390–406. https://doi.org/10.1016/j.intman.2013.03.011
+
+Schmitt, A., & Van Biesebroeck, J. (2013). Proximity strategies in outsourcing relations: The role of geographical, cultural and relational proximity in the European automotive industry. Journal of International Business Studies, 44(5), 475–503. https://doi.org/10.1057/jibs.2013.10
+
+Schomaker, M. S., & Zaheer, S. (2014). The role of language in knowledge transfer to geographically dispersed manufacturing operations. Journal of International Management, 20(1), 55–72. https://doi.org/10.1016/j.intman.2013.10.004
+
+Schuessler, E. S., Lohmeyer, N., & Ashwin, S. (2023). “We can’t compete on human rights”: Creating market-protected spaces to institutionalize the emerging logic of responsible management. Academy of Management Journal, 66(4), 1071–1101. https://doi.org/10.5465/amj.2020.1614
+
+Scuotto, V., Garcia-Perez, A., Nespoli, C., & Messeni Petruzzelli, A. (2020). A repositioning organizational knowledge dynamics by functional upgrading and downgrading strategy in global value chain. Journal of International Management, 26(4), Article 100795. https://doi.org/10.1016/j.intman.2020.100795
+
+Sharma, A., Kumar, V., Borah, S. B., & Adhikary, A. (2022). Complexity in a multinational enterprise’s global supply chain and its international business performance: A bane or a boon? Journal of International Business Studies, 53(5), 850–878. https://doi.org/10.1057/s41267-021-00497-0
+
+Sharma, A., Kumar, V., Yan, J., Borah, S. B., & Adhikary, A. (2019). Understanding the structural characteristics of a firm’s whole buyer–supplier network and its impact on international business performance. Journal of International Business Studies, 50(3), 365–392. https://doi.org/10.1057/s41267-019-00215-x
+
+Sharma, R. R., Nguyen, T. K., & Crick, D. (2018). Exploitation strategy and performance of contract manufacturing exporters: The mediating roles of exploration strategy and marketing capability. Journal of International Management, 24(3), 271–283. https://doi.org/10.1016/j.intman.2018.02.001
+
+Short, J. L., Toffel, M. W., & Hugill, A. R. (2016). Monitoring global supply chains. Strategic Management Journal, 37(9), 1878–1897. https://doi.org/10.1002/smj.2417
+
+Sidhu, J. S., & Volberda, H. W. (2011). Coordination of globally distributed teams: A co-evolution perspective on offshoring. International Business Review, 20(3), 278–290. https://doi.org/10.1016/j.ibusrev.2011.01.006
+
+Singh, S., Gaur, A., & Mudambi, R. (2026). The uneven path to global value chain upgrading: Regulations, private governance, and supplier compliance. Journal of International Business Studies. Advance online publication. https://doi.org/10.1057/s41267-026-00888-1
+
+Sinkovics, N., Hoque, S. F., & Sinkovics, R. R. (2018). Supplier strategies and routines for capability development: Implications for upgrading. Journal of International Management, 24(4), 348–368. https://doi.org/10.1016/j.intman.2018.04.005
+
+Sinkovics, N., Liu, C.-L. E., Sinkovics, R. R., & Mudambi, R. (2021). The dark side of trust in global value chains: Taiwan’s electronics and IT hardware industries. Journal of World Business, 56(4), Article 101195. https://doi.org/10.1016/j.jwb.2021.101195
+
+Soliman, S., Papanastassiou, M., & Saka-Helmhout, A. (2023). The role of subsidiaries in global value chains (GVCs): An institutional voids perspective on lvc upgrading and integration. Journal of International Management, 29(2), Article 101003. https://doi.org/10.1016/j.intman.2022.101003
+
+Song, S. (2022). Locational boundness of resource, compatibility of production, and downside risks of multinationality. Global Strategy Journal, 12(2), 334–358. https://doi.org/10.1002/gsj.1426
+
+Soundararajan, V., Sahasranamam, S., Khan, Z., & Jain, T. (2021). Multinational enterprises and the governance of sustainability practices in emerging market supply chains: An agile governance perspective. Journal of World Business, 56(2), Article 101149. https://doi.org/10.1016/j.jwb.2020.101149
+
+Sošić, G. (2023). Rethinking salt supply chains: Cost and emissions analysis for coproduction of salt and fresh water from U.S. seawater. Management Science, 69(12), 7651–7668. https://doi.org/10.1287/mnsc.2021.4109
+
+Srikanth, K., & Puranam, P. (2011). Integrating distributed work: Comparing task design, communication, and tacit coordination mechanisms. Strategic Management Journal, 32(8), 849–875. https://doi.org/10.1002/smj.908
+
+Srikanth, K., & Puranam, P. (2014). The firm as a coordination system: Evidence from software services offshoring. Organization Science, 25(4), 1253–1271. https://doi.org/10.1287/orsc.2013.0886
+
+Strange, R., & Humphrey, J. (2019). What lies between market and hierarchy? Insights from internalization theory and global value chain theory. Journal of International Business Studies, 50(8), 1401–1413. https://doi.org/10.1057/s41267-018-0186-0
+
+Suder, G., Liesch, P. W., Inomata, S., Mihailova, I., & Meng, B. (2015). The evolving geography of production hubs and regional value chains across East Asia: Trade in value-added. Journal of World Business, 50(3), 404–416. https://doi.org/10.1016/j.jwb.2014.05.003
+
+Søderberg, A.-M., Krishna, S., & Bjørn, P. (2013). Global software development: Commitment, trust and cultural sensitivity in strategic partnerships. Journal of International Management, 19(4), 347–361. https://doi.org/10.1016/j.intman.2013.04.004
+
+Tambe, P., & Hitt, L. M. (2012). Now IT's personal: Offshoring and the shifting skill composition of the U.S. information technology workforce. Management Science, 58(4), 678–695. https://doi.org/10.1287/mnsc.1110.1445
+
+Tiwana, A. (2008). Does interfirm modularity complement ignorance? A field study of software outsourcing alliances. Strategic Management Journal, 29(11), 1241–1252. https://doi.org/10.1002/smj.694
+
+Tojeiro-Rivero, D. (2022). What effect does the aggregate industrial R&D offshoring have on you? A multilevel study. Journal of International Management, 28(2), Article 100881. https://doi.org/10.1016/j.intman.2021.100881
+
+Torres de Oliveira, R., Nguyen, T., Liesch, P., Verreynne, M.-L., & Indulska, M. (2021). Exporting to escape and learn: Vietnamese manufacturers in global value chains. Journal of World Business, 56(4), Article 101227. https://doi.org/10.1016/j.jwb.2021.101227
+
+Torres de Oliveira, R., Nguyen, T., Verreynne, M.-L., Indulska, M., & Lay, J. (2026). Global value chain participation: The case of emerging market new ventures. Journal of World Business, 61(4), Article 101727. https://doi.org/10.1016/j.jwb.2026.101727
+
+Torres de Oliveira, R., Sahasranamam, S., Figueira, S., & Paul, J. (2020). Upgrading without formal integration in m&a: The role of social integration. Global Strategy Journal, 10(3), 619–652. https://doi.org/10.1002/gsj.1358
+
+Trautmann, G., Bals, L., & Hartmann, E. (2009). Global sourcing in integrated network structures: The case of hybrid purchasing organizations. Journal of International Management, 15(2), 194–208. https://doi.org/10.1016/j.intman.2008.09.001
+
+Tsai, M.-T., Huang, Y.-C., & Ma, R. (2009). Antecedents and consequences of global responsiveness: An empirical examination of MNCs in the global sourcing context. International Business Review, 18(6), 617–629. https://doi.org/10.1016/j.ibusrev.2009.07.008
+
+Turkina, E., & Van Assche, A. (2018). Global connectedness and local innovation in industrial clusters. Journal of International Business Studies, 49(6), 706–728. https://doi.org/10.1057/s41267-018-0153-9
+
+Turkina, E., Van Assche, A., & Mudambi, R. (2025). Cross-border innovation for global value chain orchestration. International Business Review, 34(4), Article 102450. https://doi.org/10.1016/j.ibusrev.2025.102450
+
+Upadhyayula, R. S., Dhandapani, K., & Karna, A. (2017). The role of cluster presence and quality certification in internationalization and performance of offshore service providers. Journal of International Management, 23(1), 72–86. https://doi.org/10.1016/j.intman.2016.11.004
+
+Vahlne, J.-E., & Ivarsson, I. (2014). The globalization of swedish MNEs: Empirical evidence and theoretical explanations. Journal of International Business Studies, 45(3), 227–247. https://doi.org/10.1057/jibs.2013.60
+
+Valle, S., García, F., & Avella, L. (2015). Offshoring intermediate manufacturing: Boost or hindrance to firm innovation? Journal of International Management, 21(2), 117–134. https://doi.org/10.1016/j.intman.2015.03.005
+
+Van Assche, A., & Lindner, T. (2026). When governments act as strategists: Geopolitical turmoil and global strategy theory. Global Strategy Journal, 16(3), 302–329. https://doi.org/10.1002/gsj.70026
+
+Verbeke, A., Kano, L., & Yuan, W. (2016). Inside the regional multinationals: A new value chain perspective on subsidiary capabilities. International Business Review, 25(3), 785–793. https://doi.org/10.1016/j.ibusrev.2016.01.019
+
+Verdu, A. J., Gómez-Gras, J. M., & Martínez-Mateo, J. (2012). Value creation through production offshore–inshore strategies in a footwear industry cluster: A coevolutionary perspective. International Business Review, 21(3), 342–356. https://doi.org/10.1016/j.ibusrev.2011.04.001
+
+Vereecke, A., Van Dierdonck, R., & De Meyer, A. (2006). A typology of plants in global manufacturing networks. Management Science, 52(11), 1737–1750. https://doi.org/10.1287/mnsc.1060.0582
+
+Vertinsky, I., Kuang, Y., Zhou, D., & Cui, V. (2023). The political economy and dynamics of bifurcated world governance and the decoupling of value chains: An alternative perspective. Journal of International Business Studies, 54(7), 1351–1377. https://doi.org/10.1057/s41267-023-00597-z
+
+Verwaal, E. (2017). Global outsourcing, explorative innovation and firm financial performance: A knowledge-exchange based perspective. Journal of World Business, 52(1), 17–27. https://doi.org/10.1016/j.jwb.2016.10.004
+
+Vivek, S. D., Richey, R. G., & Dalela, V. (2009). A longitudinal examination of partnership governance in offshoring: A moving target. Journal of World Business, 44(1), 16–30. https://doi.org/10.1016/j.jwb.2008.03.017
+
+Wan, Z., & Wu, B. (2017). When suppliers climb the value chain: A theory of value distribution in vertical relationships. Management Science, 63(2), 477–496. https://doi.org/10.1287/mnsc.2015.2356
+
+Wang, L., Huo, D., & Motohashi, K. (2019). Coordination mechanisms and overseas knowledge acquisition for Chinese suppliers: The contingent impact of production mode and contractual governance. Journal of International Management, 25(2), Article 100653. https://doi.org/10.1016/j.intman.2018.10.003
+
+Wang, L., Zhang, C., & Jiang, F. (2019). Matching governance mechanisms with transaction-specific investment types and supplier roles: An empirical study of cross-border outsourcing relationships. International Business Review, 28(2), 316–327. https://doi.org/10.1016/j.ibusrev.2018.10.004
+
+Wang, S. L., Lee, Y., & Li, D. (2024). Smart disclosure: An enabler for multinationals to reduce human rights violations in global supply chains. Journal of International Business Studies, 55(4), 450–469. https://doi.org/10.1057/s41267-024-00698-3
+
+Wang, T., Han, Z., Fan, Z., & Jia, Y. (2025). Impact of changes in political affinity on opportunism in global supply chain: The moderating role of national culture. Journal of International Management, 31(1), Article 101206. https://doi.org/10.1016/j.intman.2024.101206
+
+Wang, Y., & Xin, L. (2024). Shadow of the giant: How global value chain participation influences the knowledge structure of SMEs. International Business Review, 33(3), Article 102270. https://doi.org/10.1016/j.ibusrev.2024.102270
+
+Weng, D. H., & Peng, M. W. (2018). Home bitter home: How labor protection influences firm offshoring. Journal of World Business, 53(5), 632–640. https://doi.org/10.1016/j.jwb.2018.03.007
+
+Wieland, A., Bals, L., Mol, M. J., & Handfield, R. B. (2020). Overcoming blind spots in global sourcing research: Exploiting the cross-sections between supply chain management and international business. Journal of International Management, 26(1), Article 100709. https://doi.org/10.1016/j.intman.2019.100709
+
+Wijnsma, S. C., Lauga, D. O., & Toktay, L. B. (2024). Treat, dump, or export? How domestic and international waste management policies shape waste chain outcomes. Management Science, 70(11), 7397–7421. https://doi.org/10.1287/mnsc.2021.02061
+
+Witt, M. A. (2019). De-globalization: Theories, predictions, and opportunities for international business research. Journal of International Business Studies, 50(7), 1053–1077. https://doi.org/10.1057/s41267-019-00219-7
+
+Wu, X., & Zhang, F. (2014). Home or overseas? An analysis of sourcing strategies under competition. Management Science, 60(5), 1223–1240. https://doi.org/10.1287/mnsc.2013.1823
+
+Wu, Y., & Perez‐Aleman, P. (2026). How emerging market firms learn to lead in complex product systems: Evidence from China's civil aircraft industry. Global Strategy Journal. Advance online publication. https://doi.org/10.1002/gsj.70016
+
+Xing, W., Liu, L., Zhang, F., & Zhao, Q. (2025). The bright side of price volatility in global commodity procurement. Management Science, 71(4), 3472–3484. https://doi.org/10.1287/mnsc.2023.00304
+
+Yan, S., Jiang, W., & Xu, Y. (2026). Global investors, hidden suppliers: How institutions shape the impact of stock market liberalization programs on corporate responsibility. Journal of International Business Studies, 57(2), 197–219. https://doi.org/10.1057/s41267-025-00804-z
+
+Yang, B. (2026). Information‐seeking lobbying and strategic stockpiling under trade policy uncertainty. Strategic Management Journal, 47(8), 2127–2150. https://doi.org/10.1002/smj.70083
+
+Yang, B., Song, J., Wei, Y., & Li, J. (2025). Navigating geopolitical risks: How U.S. firms adjust supply chains amid U.S.–China rivalry. Journal of International Business Studies, 56(7), 937–949. https://doi.org/10.1057/s41267-025-00800-3
+
+Yeniyurt, S., & Carnovale, S. (2017). Global supply network embeddedness and power: An analysis of international joint venture formations. International Business Review, 26(2), 203–213. https://doi.org/10.1016/j.ibusrev.2016.06.007
+
+Yeniyurt, S., Henke, J. W., & Cavusgil, E. (2013). Integrating global and local procurement for superior supplier working relations. International Business Review, 22(2), 351–362. https://doi.org/10.1016/j.ibusrev.2012.06.004
+
+Yücesan, E. (2025). Does deglobalization imply the end of global supply chains? International Business Review, 34(6), Article 102398. https://doi.org/10.1016/j.ibusrev.2025.102398
+
+Zaefarian, G., Robson, M. J., Najafi-Tavani, Z., & Spyropoulou, S. (2023). Relationships of stressors and opportunism in cross-border exchange partnership contexts: When and how monitoring matters. Journal of International Business Studies, 54(3), 441–475. https://doi.org/10.1057/s41267-022-00560-4
+
+Zaheer, A., & Kamal, D. F. (2011). Creating trust in piranha-infested waters: The confluence of buyer, supplier and host country contexts. Journal of International Business Studies, 42(1), 48–55. https://doi.org/10.1057/jibs.2010.49
+
+Zaheer, S., Lamin, A., & Subramani, M. (2009). Cluster capabilities or ethnic ties? Location choice by foreign and domestic entrants in the services offshoring industry in India. Journal of International Business Studies, 40(6), 944–968. https://doi.org/10.1057/jibs.2008.91
+
+Zarea, H., & Su, Z. (2026). Friendshoring in international business: Theoretical foundations and a typological framework. Journal of International Management, 32(3), Article 101364. https://doi.org/10.1016/j.intman.2026.101364
+
+Zhou, A. J., Li, P. P., Luo, Y., Zhou, S. S., & Prashantham, S. (2026). From followers to leaders: A four-stage process model of emne capability development. Journal of World Business, 61(2), Article 101709. https://doi.org/10.1016/j.jwb.2025.101709
+
+Zhou, K. Z., & Xu, D. (2012). How foreign firms curtail local supplier opportunism in China: Detailed contracts, centralized control, and relational governance. Journal of International Business Studies, 43(7), 677–692. https://doi.org/10.1057/jibs.2012.7
+
+Zhou, N. (2024). Emerging market multinationals’ liability of outsidership. Journal of World Business, 59(3), Article 101505. https://doi.org/10.1016/j.jwb.2023.101505
+
+Zimmermann, A., & Ravishankar, M. N. (2016). A systems perspective on offshoring strategy and motivational drivers amongst onshore and offshore employees. Journal of World Business, 51(4), 548–567. https://doi.org/10.1016/j.jwb.2016.01.005
+
+da Rocha, A., da Fonseca, L. N. M., & Kogut, C. S. (2025). Deciphering relocation paths: A systematic literature review of near-shoring and friend-shoring. Journal of International Management, 31(5), Article 101282. https://doi.org/10.1016/j.intman.2025.101282
+
+Özer, Ö., Zheng, Y., & Ren, Y. (2014). Trust, trustworthiness, and information sharing in supply chains bridging China and the united states. Management Science, 60(10), 2435–2460. https://doi.org/10.1287/mnsc.2014.1905
+
+Ørberg Jensen, P. D., & Petersen, B. (2013). Build-operate-transfer outsourcing contracts in services – boon or bane to emerging market vendor firms? Journal of International Management, 19(3), 220–231. https://doi.org/10.1016/j.intman.2013.03.001
